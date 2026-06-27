@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

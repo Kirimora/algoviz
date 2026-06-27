@@ -1,0 +1,9 @@
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/algoviz.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/edit_cache.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/rebuild_cache.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/list_install_components.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/install.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/install/local.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/install/strip.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/algoviz_autogen_timestamp_deps.dir
+/home/kirimora/Projects/HelloMyAlgoth/algoviz/build/CMakeFiles/algoviz_autogen.dir
